@@ -1,7 +1,7 @@
 package file
 
 import (
-	"github.com/jsyzchen/pan/conf"
+	"github.com/archyese/baidupan-sdk/conf"
 	"testing"
 )
 

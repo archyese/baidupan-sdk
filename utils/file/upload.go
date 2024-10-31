@@ -2,7 +2,7 @@ package file
 
 import (
 	"bytes"
-	"github.com/jsyzchen/pan/utils/httpclient"
+	"github.com/archyese/baidupan-sdk/utils/httpclient"
 	"io"
 	"io/ioutil"
 	"log"

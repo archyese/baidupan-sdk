@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/jsyzchen/pan/conf"
-	"github.com/jsyzchen/pan/file"
+	"github.com/archyese/baidupan-sdk/conf"
+	"github.com/archyese/baidupan-sdk/file"
 )
 
 func main() {

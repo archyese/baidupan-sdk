@@ -2,9 +2,9 @@ package file
 
 import (
 	"errors"
-	"github.com/jsyzchen/pan/account"
-	"github.com/jsyzchen/pan/conf"
-	"github.com/jsyzchen/pan/utils/file"
+	"github.com/archyese/baidupan-sdk/account"
+	"github.com/archyese/baidupan-sdk/conf"
+	"github.com/archyese/baidupan-sdk/utils/file"
 	"log"
 	"net/url"
 )

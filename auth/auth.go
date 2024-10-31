@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/jsyzchen/pan/conf"
-	"github.com/jsyzchen/pan/utils/httpclient"
+	"github.com/archyese/baidupan-sdk/conf"
+	"github.com/archyese/baidupan-sdk/utils/httpclient"
 	"log"
 	"net/url"
 )

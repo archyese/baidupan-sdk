@@ -3,15 +3,15 @@
 
 ## 下载
 ```bash
-go get -u github.com/jsyzchen/pan
+go get -u github.com/archyese/baidupan-sdk
 ```
-并在项目中引入`github.com/jsyzchen/pan`
+并在项目中引入`github.com/archyese/baidupan-sdk`
 ```go
 import (
-    "github.com/jsyzchen/pan/auth"
-    "github.com/jsyzchen/pan/file"
+    "github.com/archyese/baidupan-sdk/auth"
+    "github.com/archyese/baidupan-sdk/file"
 )
 ```
 
 ## 使用示例
-[参考代码](https://github.com/jsyzchen/pan/tree/main/examples)
+[参考代码](https://github.com/archyese/baidupan-sdk/tree/main/examples)
